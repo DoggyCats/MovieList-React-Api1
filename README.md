@@ -4,9 +4,6 @@
 ### ตัวอย่าง - ปรับใช้บน Github Pages
 https://ayushkul.github.io/react-movie-app
 
-### Full development Tutorial
-Youtube Tutorial - The Indian Dev
-
 ### APIs ที่ใช้
 API ฐานข้อมูลภาพยนตร์แบบเปิด
 
