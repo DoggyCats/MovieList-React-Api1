@@ -2,7 +2,7 @@
 
 
 ### ตัวอย่าง - ปรับใช้บน Github Pages
-https://ayushkul.github.io/react-movie-app
+
 
 ### APIs ที่ใช้
 API ฐานข้อมูลภาพยนตร์แบบเปิด
