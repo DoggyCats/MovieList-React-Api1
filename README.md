@@ -1,4 +1,4 @@
-#React Movie List API - ReactJS Projects
+# React Movie List API - ReactJS Projects
 
 
 ### ตัวอย่าง - ปรับใช้บน Github Pages
@@ -27,3 +27,4 @@ API ฐานข้อมูลภาพยนตร์แบบเปิด
 * react-scripts     ---
 
 ## สร้างโดย Xukaz
+https://github.com/DoggyCats/MovieList-React-Api.git
